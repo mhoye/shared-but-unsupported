@@ -10,7 +10,16 @@ Not everything that we might like to share can or should become a job.
 
 ## Proposed English text:
 
-The code, text or other data in this repository are provided as-is under
-the terms of the LICENSE file provided. It is made available as a gift to
-the common good, with no promise of maintenance, updates or further 
-developer involvement, under any circumstances or on any schedule.
+The code, text and data in this repository are provided as-is under the 
+terms of the LICENSE file provided. It has been made available as a gift
+to the common good, with no guarantee of maintenance, future updates or 
+further developer involvement under any circumstances or on any schedule.
+The author(s) hope you find it valuable on those terms.
+
+## Translations or extensions
+
+Translations are welcome.
+
+## TODO
+
+Probably badges would be good.
