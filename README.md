@@ -8,10 +8,10 @@ will not be accepting any burdens of maintenance or updates.
 
 Not everything that we might like to share can or should become a job.
 
-## Proposed English text:
+## Proposed English text:w
 
 The code, text and data in this repository are provided as-is under the 
-terms of the LICENSE file provided. It has been made available as a gift
+terms of the repository's LICENSE file. It is available solely as a gift
 to the commons and the common good, with no guarantees of correctness,
 maintenance, future updates or further developer involvement under any
 circumstances or on any schedule.
