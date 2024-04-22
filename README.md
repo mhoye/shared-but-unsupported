@@ -8,7 +8,9 @@ will not be accepting any burdens of maintenance or updates.
 
 Not everything that we might like to share can or should become a job.
 
-## Proposed English text:w
+See the UNSUPPORTED.md file for the text in a standalone file.
+
+## Proposed English text
 
 The code, text and data in this repository are provided as-is under the 
 terms of the repository's LICENSE file. It is available solely as a gift
